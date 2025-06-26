@@ -1,0 +1,22 @@
+{
+    "name": "thormes/transacoes",
+    "description": "Atividade I Pós",
+    "type": "project",
+    "require": {
+        "slim/slim": "^4.14",
+        "phpunit/phpunit": "^12.2",
+        "slim/psr7": "^1.7"
+    },
+    "license": "Apache",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Thormes Filgueira Leite Pereira",
+            "email": "thormes@gmail.com"
+        }
+    ]
+}
